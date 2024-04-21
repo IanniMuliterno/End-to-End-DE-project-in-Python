@@ -72,6 +72,10 @@ def server(input, output, session):
             return ui.HTML(fig.to_html(full_html=False, include_plotlyjs='cdn'))
         else:
             return "No data to display"
+    
+    @session.download(filename = 'flights.csv')
+    def download_button():
+        yield filtered_data().to_csv()
 
 
 # Create the app
