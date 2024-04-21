@@ -23,15 +23,16 @@ To set up this project, you need to have Python installed on your machine (Pytho
 To use the components of this repository, follow these instructions:
 
 Open the notebook using Jupyter Lab or Jupyter Notebook:
-bash
-Copy code
-jupyter notebook avstack.ipynb
+   ```bash
+   jupyter notebook avstack.ipynb
+   ```
 Run the cells sequentially to see how data is fetched, processed, and analyzed.
-app.py
+
 To start the Shiny application, run:
-bash
-Copy code
+```bash
 python app.py
-Access the web interface at http://localhost:3003 (or whatever port is set in the app) to interact with the data visualization tools.
-Contributing
+```
+Access the web interface to interact with the data visualization tools.
+
+# Contributing
 Contributions to this project are welcome! Please fork the repository and submit a pull request with your enhancements.
