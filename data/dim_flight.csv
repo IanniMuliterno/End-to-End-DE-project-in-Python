@@ -1,201 +1,1201 @@
 number,iata,icao,codeshared
+98,UA98,UAL98,
+2328,UA2328,UAL2328,
+8683,UA8683,UAL8683,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '800', 'flight_iata': 'ac800', 'flight_icao': 'aca800'}"
+8879,UA8879,UAL8879,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '447', 'flight_iata': 'lh447', 'flight_icao': 'dlh447'}"
+717,UA717,UAL717,
+8563,UA8563,UAL8563,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '574', 'flight_iata': 'ac574', 'flight_icao': 'aca574'}"
+1735,UA1735,UAL1735,
+8118,UA8118,UAL8118,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '870', 'flight_iata': 'ac870', 'flight_icao': 'aca870'}"
+674,UA674,UAL674,
+650,UA650,UAL650,
+8325,UA8325,UAL8325,"{'airline_name': 'air canada rouge', 'airline_iata': 'rv', 'airline_icao': 'rou', 'flight_number': '1925', 'flight_iata': 'rv1925', 'flight_icao': 'rou1925'}"
+2106,UA2106,UAL2106,
+1165,UA1165,UAL1165,
+341,UA341,UAL341,
+1685,UA1685,UAL1685,
+1430,UA1430,UAL1430,
+2622,UA2622,UAL2622,
+1137,UA1137,UAL1137,
+8590,UA8590,UAL8590,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '890', 'flight_iata': 'ac890', 'flight_icao': 'aca890'}"
+7338,UA7338,UAL7338,"{'airline_name': 'azul', 'airline_iata': 'ad', 'airline_icao': 'azu', 'flight_number': '8721', 'flight_iata': 'ad8721', 'flight_icao': 'azu8721'}"
+5612,UA5612,UAL5612,
+1597,UA1597,UAL1597,
+444,UA444,UAL444,
+7925,UA7925,UAL7925,"{'airline_name': 'ana', 'airline_iata': 'nh', 'airline_icao': 'ana', 'flight_number': '125', 'flight_iata': 'nh125', 'flight_icao': 'ana125'}"
+1605,UA1605,UAL1605,
+4796,UA4796,UAL4796,
+5575,UA5575,UAL5575,
+5510,UA5510,UAL5510,
+839,UA839,UAL839,
+8826,UA8826,UAL8826,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '419', 'flight_iata': 'lh419', 'flight_icao': 'dlh419'}"
+9822,UA9822,UAL9822,"{'airline_name': 'austrian', 'airline_iata': 'os', 'airline_icao': 'aua', 'flight_number': '94', 'flight_iata': 'os94', 'flight_icao': 'aua94'}"
+8948,UA8948,UAL8948,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '94', 'flight_iata': 'lh94', 'flight_icao': 'dlh94'}"
+7460,UA7460,UAL7460,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '921', 'flight_iata': 'va921', 'flight_icao': 'voz921'}"
+7470,UA7470,UAL7470,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '820', 'flight_iata': 'va820', 'flight_icao': 'voz820'}"
+7478,UA7478,UAL7478,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '824', 'flight_iata': 'va824', 'flight_icao': 'voz824'}"
+8920,UA8920,UAL8920,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '1', 'flight_iata': 'lh1', 'flight_icao': 'dlh1'}"
+7200,UA7200,UAL7200,"{'airline_name': 'ethiopian airlines', 'airline_iata': 'et', 'airline_icao': 'eth', 'flight_number': '500', 'flight_iata': 'et500', 'flight_icao': 'eth500'}"
+1162,UA1162,UAL1162,
+3051,UA3051,UAL3051,"{'airline_name': 'silver airways', 'airline_iata': '3m', 'airline_icao': 'sil', 'flight_number': '51', 'flight_iata': '3m51', 'flight_icao': 'sil51'}"
+9568,UA9568,UAL9568,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '1405', 'flight_iata': 'lh1405', 'flight_icao': 'dlh1405'}"
+7427,UA7427,UAL7427,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '1283', 'flight_iata': 'va1283', 'flight_icao': 'voz1283'}"
+9735,UA9735,UAL9735,"{'airline_name': 'swiss', 'airline_iata': 'lx', 'airline_icao': 'swr', 'flight_number': '359', 'flight_iata': 'lx359', 'flight_icao': 'swr359'}"
+7707,UA7707,UAL7707,"{'airline_name': 'singapore airlines', 'airline_iata': 'sq', 'airline_icao': 'sia', 'flight_number': '147', 'flight_iata': 'sq147', 'flight_icao': 'sia147'}"
+1730,UA1730,UAL1730,
+9417,UA9417,UAL9417,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '2131', 'flight_iata': 'lh2131', 'flight_icao': 'dlh2131'}"
+9554,UA9554,UAL9554,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '2201', 'flight_iata': 'lh2201', 'flight_icao': 'dlh2201'}"
+9341,UA9341,UAL9341,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '885', 'flight_iata': 'lh885', 'flight_icao': 'dlh885'}"
+8912,UA8912,UAL8912,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '2223', 'flight_iata': 'lh2223', 'flight_icao': 'dlh2223'}"
+7534,UA7534,UAL7534,"{'airline_name': 'air china ltd', 'airline_iata': 'ca', 'airline_icao': 'cca', 'flight_number': '4503', 'flight_iata': 'ca4503', 'flight_icao': 'cca4503'}"
+9079,UA9079,UAL9079,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '333', 'flight_iata': 'lh333', 'flight_icao': 'dlh333'}"
+6506,UA6506,UAL6506,"{'airline_name': 'flydubai', 'airline_iata': 'fz', 'airline_icao': 'fdb', 'flight_number': '883', 'flight_iata': 'fz883', 'flight_icao': 'fdb883'}"
+5066,UA5066,UAL5066,
+60,UA60,UAL60,
+8504,UA8504,UAL8504,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '565', 'flight_iata': 'ac565', 'flight_icao': 'aca565'}"
+201,UA201,UAL201,
+8292,UA8292,UAL8292,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '740', 'flight_iata': 'ac740', 'flight_icao': 'aca740'}"
+5455,UA5455,UAL5455,
+8613,UA8613,UAL8613,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '572', 'flight_iata': 'ac572', 'flight_icao': 'aca572'}"
+7286,UA7286,UAL7286,"{'airline_name': 'asiana airlines', 'airline_iata': 'oz', 'airline_icao': 'aar', 'flight_number': '201', 'flight_iata': 'oz201', 'flight_icao': 'aar201'}"
+8612,UA8612,UAL8612,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '832', 'flight_iata': 'ac832', 'flight_icao': 'aca832'}"
+6636,UA6636,UAL6636,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '8898', 'flight_iata': 'ac8898', 'flight_icao': 'aca8898'}"
+7155,UA7155,UAL7155,"{'airline_name': 'copa airlines', 'airline_iata': 'cm', 'airline_icao': 'cmp', 'flight_number': '227', 'flight_iata': 'cm227', 'flight_icao': 'cmp227'}"
+8507,UA8507,UAL8507,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '585', 'flight_iata': 'ac585', 'flight_icao': 'aca585'}"
+5294,UA5294,UAL5294,
+5446,UA5446,UAL5446,
+6922,UA6922,UAL6922,"{'airline_name': 'turkish airlines', 'airline_iata': 'tk', 'airline_icao': 'thy', 'flight_number': '1988', 'flight_iata': 'tk1988', 'flight_icao': 'thy1988'}"
+1505,UA1505,UAL1505,
+9706,UA9706,UAL9706,"{'airline_name': 'air dolomiti', 'airline_iata': 'en', 'airline_icao': 'dla', 'flight_number': '8245', 'flight_iata': 'en8245', 'flight_icao': 'dla8245'}"
+4798,UA4798,UAL4798,
+2633,UA2633,UAL2633,
+1342,UA1342,UAL1342,
+5644,UA5644,UAL5644,
+514,UA514,UAL514,
+372,UA372,UAL372,
+5651,UA5651,UAL5651,
+5592,UA5592,UAL5592,
+460,UA460,UAL460,
+1841,UA1841,UAL1841,
+1702,UA1702,UAL1702,
+5571,UA5571,UAL5571,
+1187,UA1187,UAL1187,
+648,UA648,UAL648,
+5688,UA5688,UAL5688,
+5705,UA5705,UAL5705,
+298,UA298,UAL298,
+4790,UA4790,UAL4790,
+8707,UA8707,UAL8707,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '582', 'flight_iata': 'ac582', 'flight_icao': 'aca582'}"
+682,UA682,UAL682,
+5669,UA5669,UAL5669,
+473,UA473,UAL473,
+7220,UA7220,UAL7220,"{'airline_name': 'ethiopian airlines', 'airline_iata': 'et', 'airline_icao': 'eth', 'flight_number': '813', 'flight_iata': 'et813', 'flight_icao': 'eth813'}"
+832,UA832,UAL832,
+1299,UA1299,UAL1299,
+2162,UA2162,UAL2162,
+7476,UA7476,UAL7476,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '314', 'flight_iata': 'va314', 'flight_icao': 'voz314'}"
+5667,UA5667,UAL5667,
+8987,UA8987,UAL8987,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '1006', 'flight_iata': 'lh1006', 'flight_icao': 'dlh1006'}"
+2615,UA2615,UAL2615,
+2416,UA2416,UAL2416,
+1769,UA1769,UAL1769,
+7467,UA7467,UAL7467,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '841', 'flight_iata': 'va841', 'flight_icao': 'voz841'}"
+7003,UA7003,UAL7003,"{'airline_name': 'sas', 'airline_iata': 'sk', 'airline_icao': 'sas', 'flight_number': '4841', 'flight_iata': 'sk4841', 'flight_icao': 'sas4841'}"
+7524,UA7524,UAL7524,"{'airline_name': 'air china ltd', 'airline_iata': 'ca', 'airline_icao': 'cca', 'flight_number': '1344', 'flight_iata': 'ca1344', 'flight_icao': 'cca1344'}"
+855,UA855,UAL855,
+7729,UA7729,UAL7729,"{'airline_name': 'vistara', 'airline_iata': 'uk', 'airline_icao': 'vti', 'flight_number': '856', 'flight_iata': 'uk856', 'flight_icao': 'vti856'}"
+206,UA206,UAL206,
+9032,UA9032,UAL9032,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '1184', 'flight_iata': 'lh1184', 'flight_icao': 'dlh1184'}"
+9736,UA9736,UAL9736,"{'airline_name': 'swiss', 'airline_iata': 'lx', 'airline_icao': 'swr', 'flight_number': '352', 'flight_iata': 'lx352', 'flight_icao': 'swr352'}"
+9506,UA9506,UAL9506,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '390', 'flight_iata': 'lh390', 'flight_icao': 'dlh390'}"
+9172,UA9172,UAL9172,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '2041', 'flight_iata': 'lh2041', 'flight_icao': 'dlh2041'}"
+9636,UA9636,UAL9636,"{'airline_name': 'eurowings', 'airline_iata': 'ew', 'airline_icao': 'ewg', 'flight_number': '7760', 'flight_iata': 'ew7760', 'flight_icao': 'ewg7760'}"
+6780,UA6780,UAL6780,"{'airline_name': 'air new zealand', 'airline_iata': 'nz', 'airline_icao': 'anz', 'flight_number': '124', 'flight_iata': 'nz124', 'flight_icao': 'anz124'}"
+9745,UA9745,UAL9745,"{'airline_name': 'swiss', 'airline_iata': 'lx', 'airline_icao': 'swr', 'flight_number': '2805', 'flight_iata': 'lx2805', 'flight_icao': 'swr2805'}"
+6890,UA6890,UAL6890,"{'airline_name': 'tap air portugal', 'airline_iata': 'tp', 'airline_icao': 'tap', 'flight_number': '1939', 'flight_iata': 'tp1939', 'flight_icao': 'tap1939'}"
+9101,UA9101,UAL9101,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '2507', 'flight_iata': 'lh2507', 'flight_icao': 'dlh2507'}"
+873,UA873,UAL873,
+9908,UA9908,UAL9908,"{'airline_name': 'brussels airlines', 'airline_iata': 'sn', 'airline_icao': 'bel', 'flight_number': '2184', 'flight_iata': 'sn2184', 'flight_icao': 'bel2184'}"
+9043,UA9043,UAL9043,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '949', 'flight_iata': 'lh949', 'flight_icao': 'dlh949'}"
+9342,UA9342,UAL9342,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '72', 'flight_iata': 'lh72', 'flight_icao': 'dlh72'}"
+9920,UA9920,UAL9920,"{'airline_name': 'brussels airlines', 'airline_iata': 'sn', 'airline_icao': 'bel', 'flight_number': '2592', 'flight_iata': 'sn2592', 'flight_icao': 'bel2592'}"
+6990,UA6990,UAL6990,"{'airline_name': 'sas', 'airline_iata': 'sk', 'airline_icao': 'sas', 'flight_number': '803', 'flight_iata': 'sk803', 'flight_icao': 'sas803'}"
+6975,UA6975,UAL6975,"{'airline_name': 'sas', 'airline_iata': 'sk', 'airline_icao': 'sas', 'flight_number': '821', 'flight_iata': 'sk821', 'flight_icao': 'sas821'}"
+6922,UA6922,UAL6922,"{'airline_name': 'turkish airlines', 'airline_iata': 'tk', 'airline_icao': 'thy', 'flight_number': '1988', 'flight_iata': 'tk1988', 'flight_icao': 'thy1988'}"
+8957,UA8957,UAL8957,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '1781', 'flight_iata': 'lh1781', 'flight_icao': 'dlh1781'}"
+6906,UA6906,UAL6906,"{'airline_name': 'turkish airlines', 'airline_iata': 'tk', 'airline_icao': 'thy', 'flight_number': '1598', 'flight_iata': 'tk1598', 'flight_icao': 'thy1598'}"
+8800,UA8800,UAL8800,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '230', 'flight_iata': 'lh230', 'flight_icao': 'dlh230'}"
+8948,UA8948,UAL8948,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '94', 'flight_iata': 'lh94', 'flight_icao': 'dlh94'}"
+6899,UA6899,UAL6899,"{'airline_name': 'turkish airlines', 'airline_iata': 'tk', 'airline_icao': 'thy', 'flight_number': '1587', 'flight_iata': 'tk1587', 'flight_icao': 'thy1587'}"
+9079,UA9079,UAL9079,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '333', 'flight_iata': 'lh333', 'flight_icao': 'dlh333'}"
+9092,UA9092,UAL9092,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '1212', 'flight_iata': 'lh1212', 'flight_icao': 'dlh1212'}"
+9140,UA9140,UAL9140,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '248', 'flight_iata': 'lh248', 'flight_icao': 'dlh248'}"
+8991,UA8991,UAL8991,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '952', 'flight_iata': 'lh952', 'flight_icao': 'dlh952'}"
+9546,UA9546,UAL9546,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '921', 'flight_iata': 'lh921', 'flight_icao': 'dlh921'}"
+7261,UA7261,UAL7261,"{'airline_name': 'croatia airlines', 'airline_iata': 'ou', 'airline_icao': 'ctn', 'flight_number': '4438', 'flight_iata': 'ou4438', 'flight_icao': 'ctn4438'}"
+8804,UA8804,UAL8804,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '1124', 'flight_iata': 'lh1124', 'flight_icao': 'dlh1124'}"
+9900,UA9900,UAL9900,"{'airline_name': 'brussels airlines', 'airline_iata': 'sn', 'airline_icao': 'bel', 'flight_number': '2104', 'flight_iata': 'sn2104', 'flight_icao': 'bel2104'}"
+9735,UA9735,UAL9735,"{'airline_name': 'swiss', 'airline_iata': 'lx', 'airline_icao': 'swr', 'flight_number': '359', 'flight_iata': 'lx359', 'flight_icao': 'swr359'}"
+9647,UA9647,UAL9647,"{'airline_name': 'eurowings', 'airline_iata': 'ew', 'airline_icao': 'ewg', 'flight_number': '460', 'flight_iata': 'ew460', 'flight_icao': 'ewg460'}"
+8886,UA8886,UAL8886,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '1873', 'flight_iata': 'lh1873', 'flight_icao': 'dlh1873'}"
+7529,UA7529,UAL7529,"{'airline_name': 'air china ltd', 'airline_iata': 'ca', 'airline_icao': 'cca', 'flight_number': '1422', 'flight_iata': 'ca1422', 'flight_icao': 'cca1422'}"
+2998,UA2998,UAL2998,"{'airline_name': 'south african airlink', 'airline_iata': '4z', 'airline_icao': 'lnk', 'flight_number': '672', 'flight_iata': '4z672', 'flight_icao': 'lnk672'}"
+8805,UA8805,UAL8805,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '243', 'flight_iata': 'lh243', 'flight_icao': 'dlh243'}"
+9033,UA9033,UAL9033,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '259', 'flight_iata': 'lh259', 'flight_icao': 'dlh259'}"
+8716,UA8716,UAL8716,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '2421', 'flight_iata': 'lh2421', 'flight_icao': 'dlh2421'}"
+7322,UA7322,UAL7322,"{'airline_name': 'asiana airlines', 'airline_iata': 'oz', 'airline_icao': 'aar', 'flight_number': '106', 'flight_iata': 'oz106', 'flight_icao': 'aar106'}"
+8734,UA8734,UAL8734,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '1403', 'flight_iata': 'lh1403', 'flight_icao': 'dlh1403'}"
+2083,UA2083,UAL2083,
+9642,UA9642,UAL9642,"{'airline_name': 'eurowings', 'airline_iata': 'ew', 'airline_icao': 'ewg', 'flight_number': '2462', 'flight_iata': 'ew2462', 'flight_icao': 'ewg2462'}"
+7968,UA7968,UAL7968,"{'airline_name': 'ana', 'airline_iata': 'nh', 'airline_icao': 'ana', 'flight_number': '806', 'flight_iata': 'nh806', 'flight_icao': 'ana806'}"
+7907,UA7907,UAL7907,"{'airline_name': 'ana', 'airline_iata': 'nh', 'airline_icao': 'ana', 'flight_number': '859', 'flight_iata': 'nh859', 'flight_icao': 'ana859'}"
+6604,UA6604,UAL6604,"{'airline_name': 'emirates', 'airline_iata': 'ek', 'airline_icao': 'uae', 'flight_number': '723', 'flight_iata': 'ek723', 'flight_icao': 'uae723'}"
+7599,UA7599,UAL7599,"{'airline_name': 'air china ltd', 'airline_iata': 'ca', 'airline_icao': 'cca', 'flight_number': '8203', 'flight_iata': 'ca8203', 'flight_icao': 'cca8203'}"
+155,UA155,UAL155,
+9206,UA9206,UAL9206,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '1346', 'flight_iata': 'lh1346', 'flight_icao': 'dlh1346'}"
+3884,UA3884,UAL3884,
+7952,UA7952,UAL7952,"{'airline_name': 'ana', 'airline_iata': 'nh', 'airline_icao': 'ana', 'flight_number': '872', 'flight_iata': 'nh872', 'flight_icao': 'ana872'}"
+7410,UA7410,UAL7410,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '837', 'flight_iata': 'va837', 'flight_icao': 'voz837'}"
+916,UA916,UAL916,
+7489,UA7489,UAL7489,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '323', 'flight_iata': 'va323', 'flight_icao': 'voz323'}"
+7434,UA7434,UAL7434,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '836', 'flight_iata': 'va836', 'flight_icao': 'voz836'}"
+864,UA864,UAL864,
+9950,UA9950,UAL9950,"{'airline_name': 'brussels airlines', 'airline_iata': 'sn', 'airline_icao': 'bel', 'flight_number': '3676', 'flight_iata': 'sn3676', 'flight_icao': 'bel3676'}"
+9091,UA9091,UAL9091,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '1101', 'flight_iata': 'lh1101', 'flight_icao': 'dlh1101'}"
+6602,UA6602,UAL6602,"{'airline_name': 'emirates', 'airline_iata': 'ek', 'airline_icao': 'uae', 'flight_number': '725', 'flight_iata': 'ek725', 'flight_icao': 'uae725'}"
+6588,UA6588,UAL6588,"{'airline_name': 'emirates', 'airline_iata': 'ek', 'airline_icao': 'uae', 'flight_number': '713', 'flight_iata': 'ek713', 'flight_icao': 'uae713'}"
+9624,UA9624,UAL9624,"{'airline_name': 'eurowings', 'airline_iata': 'ew', 'airline_icao': 'ewg', 'flight_number': '9468', 'flight_iata': 'ew9468', 'flight_icao': 'ewg9468'}"
+9643,UA9643,UAL9643,"{'airline_name': 'eurowings', 'airline_iata': 'ew', 'airline_icao': 'ewg', 'flight_number': '9826', 'flight_iata': 'ew9826', 'flight_icao': 'ewg9826'}"
+6772,UA6772,UAL6772,"{'airline_name': 'air new zealand', 'airline_iata': 'nz', 'airline_icao': 'anz', 'flight_number': '102', 'flight_iata': 'nz102', 'flight_icao': 'anz102'}"
+7403,UA7403,UAL7403,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '931', 'flight_iata': 'va931', 'flight_icao': 'voz931'}"
+9170,UA9170,UAL9170,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '73', 'flight_iata': 'lh73', 'flight_icao': 'dlh73'}"
+7527,UA7527,UAL7527,"{'airline_name': 'air china ltd', 'airline_iata': 'ca', 'airline_icao': 'cca', 'flight_number': '4113', 'flight_iata': 'ca4113', 'flight_icao': 'cca4113'}"
+9792,UA9792,UAL9792,"{'airline_name': 'swiss', 'airline_iata': 'lx', 'airline_icao': 'swr', 'flight_number': '786', 'flight_iata': 'lx786', 'flight_icao': 'swr786'}"
+3945,UA3945,UAL3945,
+7397,UA7397,UAL7397,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '267', 'flight_iata': 'va267', 'flight_icao': 'voz267'}"
+7700,UA7700,UAL7700,"{'airline_name': 'singapore airlines', 'airline_iata': 'sq', 'airline_icao': 'sia', 'flight_number': '108', 'flight_iata': 'sq108', 'flight_icao': 'sia108'}"
+7392,UA7392,UAL7392,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '322', 'flight_iata': 'va322', 'flight_icao': 'voz322'}"
+4780,UA4780,UAL4780,
+501,UA501,UAL501,
+8292,UA8292,UAL8292,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '740', 'flight_iata': 'ac740', 'flight_icao': 'aca740'}"
+8867,UA8867,UAL8867,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '441', 'flight_iata': 'lh441', 'flight_icao': 'dlh441'}"
+9790,UA9790,UAL9790,"{'airline_name': 'swiss', 'airline_iata': 'lx', 'airline_icao': 'swr', 'flight_number': '724', 'flight_iata': 'lx724', 'flight_icao': 'swr724'}"
+392,UA392,UAL392,
+2613,UA2613,UAL2613,
+5482,UA5482,UAL5482,
+2339,UA2339,UAL2339,
+1183,UA1183,UAL1183,
+1429,UA1429,UAL1429,
+7506,UA7506,UAL7506,"{'airline_name': 'air china ltd', 'airline_iata': 'ca', 'airline_icao': 'cca', 'flight_number': '1310', 'flight_iata': 'ca1310', 'flight_icao': 'cca1310'}"
+8840,UA8840,UAL8840,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '401', 'flight_iata': 'lh401', 'flight_icao': 'dlh401'}"
+7328,UA7328,UAL7328,"{'airline_name': 'azul', 'airline_iata': 'ad', 'airline_icao': 'azu', 'flight_number': '2708', 'flight_iata': 'ad2708', 'flight_icao': 'azu2708'}"
+362,UA362,UAL362,
+7839,UA7839,UAL7839,"{'airline_name': 'hawaiian airlines', 'airline_iata': 'ha', 'airline_icao': 'hal', 'flight_number': '508', 'flight_iata': 'ha508', 'flight_icao': 'hal508'}"
+218,UA218,UAL218,
+8184,UA8184,UAL8184,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '8265', 'flight_iata': 'ac8265', 'flight_icao': 'aca8265'}"
+4660,UA4660,UAL4660,
+4244,UA4244,UAL4244,
+5636,UA5636,UAL5636,
+1510,UA1510,UAL1510,
+8053,UA8053,UAL8053,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '8776', 'flight_iata': 'ac8776', 'flight_icao': 'aca8776'}"
+8973,UA8973,UAL8973,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '173', 'flight_iata': 'lh173', 'flight_icao': 'dlh173'}"
+6580,UA6580,UAL6580,"{'airline_name': 'emirates', 'airline_iata': 'ek', 'airline_icao': 'uae', 'flight_number': '706', 'flight_iata': 'ek706', 'flight_icao': 'uae706'}"
+9433,UA9433,UAL9433,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '1625', 'flight_iata': 'lh1625', 'flight_icao': 'dlh1625'}"
+6776,UA6776,UAL6776,"{'airline_name': 'air new zealand', 'airline_iata': 'nz', 'airline_icao': 'anz', 'flight_number': '626', 'flight_iata': 'nz626', 'flight_icao': 'anz626'}"
+1162,UA1162,UAL1162,
+9554,UA9554,UAL9554,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '2201', 'flight_iata': 'lh2201', 'flight_icao': 'dlh2201'}"
+9706,UA9706,UAL9706,"{'airline_name': 'air dolomiti', 'airline_iata': 'en', 'airline_icao': 'dla', 'flight_number': '8245', 'flight_iata': 'en8245', 'flight_icao': 'dla8245'}"
+9409,UA9409,UAL9409,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '2109', 'flight_iata': 'lh2109', 'flight_icao': 'dlh2109'}"
+8920,UA8920,UAL8920,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '1', 'flight_iata': 'lh1', 'flight_icao': 'dlh1'}"
+9341,UA9341,UAL9341,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '885', 'flight_iata': 'lh885', 'flight_icao': 'dlh885'}"
+7584,UA7584,UAL7584,"{'airline_name': 'air china ltd', 'airline_iata': 'ca', 'airline_icao': 'cca', 'flight_number': '1332', 'flight_iata': 'ca1332', 'flight_icao': 'cca1332'}"
+9435,UA9435,UAL9435,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '2345', 'flight_iata': 'lh2345', 'flight_icao': 'dlh2345'}"
+9568,UA9568,UAL9568,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '1405', 'flight_iata': 'lh1405', 'flight_icao': 'dlh1405'}"
+9446,UA9446,UAL9446,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '2433', 'flight_iata': 'lh2433', 'flight_icao': 'dlh2433'}"
+7986,UA7986,UAL7986,"{'airline_name': 'ana', 'airline_iata': 'nh', 'airline_icao': 'ana', 'flight_number': '2154', 'flight_iata': 'nh2154', 'flight_icao': 'ana2154'}"
+9553,UA9553,UAL9553,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '2153', 'flight_iata': 'lh2153', 'flight_icao': 'dlh2153'}"
+7900,UA7900,UAL7900,"{'airline_name': 'ana', 'airline_iata': 'nh', 'airline_icao': 'ana', 'flight_number': '996', 'flight_iata': 'nh996', 'flight_icao': 'ana996'}"
+7184,UA7184,UAL7184,"{'airline_name': 'copa airlines', 'airline_iata': 'cm', 'airline_icao': 'cmp', 'flight_number': '126', 'flight_iata': 'cm126', 'flight_icao': 'cmp126'}"
+9535,UA9535,UAL9535,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '843', 'flight_iata': 'lh843', 'flight_icao': 'dlh843'}"
+7965,UA7965,UAL7965,"{'airline_name': 'ana', 'airline_iata': 'nh', 'airline_icao': 'ana', 'flight_number': '1209', 'flight_iata': 'nh1209', 'flight_icao': 'ana1209'}"
+6748,UA6748,UAL6748,"{'airline_name': 'air new zealand', 'airline_iata': 'nz', 'airline_icao': 'anz', 'flight_number': '448', 'flight_iata': 'nz448', 'flight_icao': 'anz448'}"
+6907,UA6907,UAL6907,"{'airline_name': 'turkish airlines', 'airline_iata': 'tk', 'airline_icao': 'thy', 'flight_number': '1629', 'flight_iata': 'tk1629', 'flight_icao': 'thy1629'}"
+6925,UA6925,UAL6925,"{'airline_name': 'turkish airlines', 'airline_iata': 'tk', 'airline_icao': 'thy', 'flight_number': '1821', 'flight_iata': 'tk1821', 'flight_icao': 'thy1821'}"
+9335,UA9335,UAL9335,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '49', 'flight_iata': 'lh49', 'flight_icao': 'dlh49'}"
+8966,UA8966,UAL8966,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '2447', 'flight_iata': 'lh2447', 'flight_icao': 'dlh2447'}"
+9817,UA9817,UAL9817,"{'airline_name': 'austrian', 'airline_iata': 'os', 'airline_icao': 'aua', 'flight_number': '199', 'flight_iata': 'os199', 'flight_icao': 'aua199'}"
+2997,UA2997,UAL2997,"{'airline_name': 'south african airlink', 'airline_iata': '4z', 'airline_icao': 'lnk', 'flight_number': '671', 'flight_iata': '4z671', 'flight_icao': 'lnk671'}"
+7454,UA7454,UAL7454,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '1117', 'flight_iata': 'va1117', 'flight_icao': 'voz1117'}"
+7435,UA7435,UAL7435,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '313', 'flight_iata': 'va313', 'flight_icao': 'voz313'}"
+7114,UA7114,UAL7114,"{'airline_name': 'copa airlines', 'airline_iata': 'cm', 'airline_icao': 'cmp', 'flight_number': '206', 'flight_iata': 'cm206', 'flight_icao': 'cmp206'}"
+7459,UA7459,UAL7459,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '418', 'flight_iata': 'va418', 'flight_icao': 'voz418'}"
+9301,UA9301,UAL9301,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '1285', 'flight_iata': 'lh1285', 'flight_icao': 'dlh1285'}"
+9755,UA9755,UAL9755,"{'airline_name': 'swiss', 'airline_iata': 'lx', 'airline_icao': 'swr', 'flight_number': '1843', 'flight_iata': 'lx1843', 'flight_icao': 'swr1843'}"
+8734,UA8734,UAL8734,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '1403', 'flight_iata': 'lh1403', 'flight_icao': 'dlh1403'}"
+7610,UA7610,UAL7610,"{'airline_name': 'air china ltd', 'airline_iata': 'ca', 'airline_icao': 'cca', 'flight_number': '1268', 'flight_iata': 'ca1268', 'flight_icao': 'cca1268'}"
+7557,UA7557,UAL7557,"{'airline_name': 'air china ltd', 'airline_iata': 'ca', 'airline_icao': 'cca', 'flight_number': '1404', 'flight_iata': 'ca1404', 'flight_icao': 'cca1404'}"
+163,UA163,UAL163,
+7473,UA7473,UAL7473,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '555', 'flight_iata': 'va555', 'flight_icao': 'voz555'}"
+892,UA892,UAL892,
+9246,UA9246,UAL9246,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '1702', 'flight_iata': 'lh1702', 'flight_icao': 'dlh1702'}"
+6767,UA6767,UAL6767,"{'airline_name': 'air new zealand', 'airline_iata': 'nz', 'airline_icao': 'anz', 'flight_number': '562', 'flight_iata': 'nz562', 'flight_icao': 'anz562'}"
+7672,UA7672,UAL7672,"{'airline_name': 'singapore airlines', 'airline_iata': 'sq', 'airline_icao': 'sia', 'flight_number': '225', 'flight_iata': 'sq225', 'flight_icao': 'sia225'}"
+952,UA952,UAL952,
+160,UA160,UAL160,
+8267,UA8267,UAL8267,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '603', 'flight_iata': 'ac603', 'flight_icao': 'aca603'}"
+591,UA591,UAL591,
+7702,UA7702,UAL7702,"{'airline_name': 'singapore airlines', 'airline_iata': 'sq', 'airline_icao': 'sia', 'flight_number': '944', 'flight_iata': 'sq944', 'flight_icao': 'sia944'}"
+7400,UA7400,UAL7400,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '1495', 'flight_iata': 'va1495', 'flight_icao': 'voz1495'}"
+951,UA951,UAL951,
+6162,UA6162,UAL6162,
+6740,UA6740,UAL6740,"{'airline_name': 'air new zealand', 'airline_iata': 'nz', 'airline_icao': 'anz', 'flight_number': '610', 'flight_iata': 'nz610', 'flight_icao': 'anz610'}"
+2611,UA2611,UAL2611,
+7556,UA7556,UAL7556,"{'airline_name': 'air china ltd', 'airline_iata': 'ca', 'airline_icao': 'cca', 'flight_number': '4171', 'flight_iata': 'ca4171', 'flight_icao': 'cca4171'}"
+8762,UA8762,UAL8762,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '2453', 'flight_iata': 'lh2453', 'flight_icao': 'dlh2453'}"
+9219,UA9219,UAL9219,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '1651', 'flight_iata': 'lh1651', 'flight_icao': 'dlh1651'}"
+9218,UA9218,UAL9218,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '1650', 'flight_iata': 'lh1650', 'flight_icao': 'dlh1650'}"
+7120,UA7120,UAL7120,"{'airline_name': 'copa airlines', 'airline_iata': 'cm', 'airline_icao': 'cmp', 'flight_number': '284', 'flight_iata': 'cm284', 'flight_icao': 'cmp284'}"
+817,UA817,UAL817,
+8242,UA8242,UAL8242,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '8803', 'flight_iata': 'ac8803', 'flight_icao': 'aca8803'}"
+8981,UA8981,UAL8981,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '17', 'flight_iata': 'lh17', 'flight_icao': 'dlh17'}"
+1144,UA1144,UAL1144,
+9957,UA9957,UAL9957,"{'airline_name': 'brussels airlines', 'airline_iata': 'sn', 'airline_icao': 'bel', 'flight_number': '224', 'flight_iata': 'sn224', 'flight_icao': 'bel224'}"
+2149,UA2149,UAL2149,
+9632,UA9632,UAL9632,"{'airline_name': 'eurowings', 'airline_iata': 'ew', 'airline_icao': 'ewg', 'flight_number': '7465', 'flight_iata': 'ew7465', 'flight_icao': 'ewg7465'}"
+6579,UA6579,UAL6579,"{'airline_name': 'emirates', 'airline_iata': 'ek', 'airline_icao': 'uae', 'flight_number': '705', 'flight_iata': 'ek705', 'flight_icao': 'uae705'}"
+53,UA53,UAL53,
+6895,UA6895,UAL6895,"{'airline_name': 'tap air portugal', 'airline_iata': 'tp', 'airline_icao': 'tap', 'flight_number': '1924', 'flight_iata': 'tp1924', 'flight_icao': 'tap1924'}"
+1920,UA1920,UAL1920,
+7526,UA7526,UAL7526,"{'airline_name': 'air china ltd', 'airline_iata': 'ca', 'airline_icao': 'cca', 'flight_number': '4119', 'flight_iata': 'ca4119', 'flight_icao': 'cca4119'}"
+9217,UA9217,UAL9217,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '1655', 'flight_iata': 'lh1655', 'flight_icao': 'dlh1655'}"
+9286,UA9286,UAL9286,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '1423', 'flight_iata': 'lh1423', 'flight_icao': 'dlh1423'}"
+9455,UA9455,UAL9455,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '1825', 'flight_iata': 'lh1825', 'flight_icao': 'dlh1825'}"
+50,UA50,UAL50,
+656,UA656,UAL656,
+195,UA195,UAL195,
+7951,UA7951,UAL7951,"{'airline_name': 'ana', 'airline_iata': 'nh', 'airline_icao': 'ana', 'flight_number': '991', 'flight_iata': 'nh991', 'flight_icao': 'ana991'}"
+6278,UA6278,UAL6278,
+6685,UA6685,UAL6685,"{'airline_name': 'sa avianca', 'airline_iata': 'av', 'airline_icao': 'ava', 'flight_number': '9475', 'flight_iata': 'av9475', 'flight_icao': 'ava9475'}"
+2244,UA2244,UAL2244,
+8638,UA8638,UAL8638,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '8252', 'flight_iata': 'ac8252', 'flight_icao': 'aca8252'}"
+7443,UA7443,UAL7443,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '823', 'flight_iata': 'va823', 'flight_icao': 'voz823'}"
+7878,UA7878,UAL7878,"{'airline_name': 'hawaiian airlines', 'airline_iata': 'ha', 'airline_icao': 'hal', 'flight_number': '247', 'flight_iata': 'ha247', 'flight_icao': 'hal247'}"
+7956,UA7956,UAL7956,"{'airline_name': 'ana', 'airline_iata': 'nh', 'airline_icao': 'ana', 'flight_number': '86', 'flight_iata': 'nh86', 'flight_icao': 'ana86'}"
+8777,UA8777,UAL8777,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '133', 'flight_iata': 'lh133', 'flight_icao': 'dlh133'}"
+9967,UA9967,UAL9967,"{'airline_name': 'brussels airlines', 'airline_iata': 'sn', 'airline_icao': 'bel', 'flight_number': '3667', 'flight_iata': 'sn3667', 'flight_icao': 'bel3667'}"
+991,UA991,UAL991,
+998,UA998,UAL998,
+492,UA492,UAL492,
+3586,UA3586,UAL3586,
+9507,UA9507,UAL9507,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '64', 'flight_iata': 'lh64', 'flight_icao': 'dlh64'}"
+181,UA181,UAL181,
+988,UA988,UAL988,
+6917,UA6917,UAL6917,"{'airline_name': 'turkish airlines', 'airline_iata': 'tk', 'airline_icao': 'thy', 'flight_number': '1985', 'flight_iata': 'tk1985', 'flight_icao': 'thy1985'}"
+864,UA864,UAL864,
+7718,UA7718,UAL7718,"{'airline_name': 'egyptair', 'airline_iata': 'ms', 'airline_icao': 'msr', 'flight_number': '778', 'flight_iata': 'ms778', 'flight_icao': 'msr778'}"
+512,UA512,UAL512,
+4173,UA4173,UAL4173,
+2700,UA2700,UAL2700,
+441,UA441,UAL441,
+9892,UA9892,UAL9892,"{'airline_name': 'brussels airlines', 'airline_iata': 'sn', 'airline_icao': 'bel', 'flight_number': '2712', 'flight_iata': 'sn2712', 'flight_icao': 'bel2712'}"
+6034,UA6034,UAL6034,
+2106,UA2106,UAL2106,
+1430,UA1430,UAL1430,
+7867,UA7867,UAL7867,"{'airline_name': 'hawaiian airlines', 'airline_iata': 'ha', 'airline_icao': 'hal', 'flight_number': '566', 'flight_iata': 'ha566', 'flight_icao': 'hal566'}"
+650,UA650,UAL650,
+8879,UA8879,UAL8879,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '447', 'flight_iata': 'lh447', 'flight_icao': 'dlh447'}"
+674,UA674,UAL674,
+2328,UA2328,UAL2328,
+7161,UA7161,UAL7161,"{'airline_name': 'copa airlines', 'airline_iata': 'cm', 'airline_icao': 'cmp', 'flight_number': '273', 'flight_iata': 'cm273', 'flight_icao': 'cmp273'}"
+8253,UA8253,UAL8253,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '8820', 'flight_iata': 'ac8820', 'flight_icao': 'aca8820'}"
+1962,UA1962,UAL1962,
+1793,UA1793,UAL1793,
+18,UA18,UAL18,
+9751,UA9751,UAL9751,"{'airline_name': 'swiss', 'airline_iata': 'lx', 'airline_icao': 'swr', 'flight_number': '1613', 'flight_iata': 'lx1613', 'flight_icao': 'swr1613'}"
+6736,UA6736,UAL6736,"{'airline_name': 'air new zealand', 'airline_iata': 'nz', 'airline_icao': 'anz', 'flight_number': '539', 'flight_iata': 'nz539', 'flight_icao': 'anz539'}"
+9036,UA9036,UAL9036,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '247', 'flight_iata': 'lh247', 'flight_icao': 'dlh247'}"
+9136,UA9136,UAL9136,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '246', 'flight_iata': 'lh246', 'flight_icao': 'dlh246'}"
+6762,UA6762,UAL6762,"{'airline_name': 'air new zealand', 'airline_iata': 'nz', 'airline_icao': 'anz', 'flight_number': '952', 'flight_iata': 'nz952', 'flight_icao': 'anz952'}"
+9222,UA9222,UAL9222,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '2414', 'flight_iata': 'lh2414', 'flight_icao': 'dlh2414'}"
+9056,UA9056,UAL9056,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '156', 'flight_iata': 'lh156', 'flight_icao': 'dlh156'}"
+6589,UA6589,UAL6589,"{'airline_name': 'emirates', 'airline_iata': 'ek', 'airline_icao': 'uae', 'flight_number': '794', 'flight_iata': 'ek794', 'flight_icao': 'uae794'}"
+8525,UA8525,UAL8525,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '543', 'flight_iata': 'ac543', 'flight_icao': 'aca543'}"
+8433,UA8433,UAL8433,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '745', 'flight_iata': 'ac745', 'flight_icao': 'aca745'}"
+8390,UA8390,UAL8390,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '884', 'flight_iata': 'ac884', 'flight_icao': 'aca884'}"
+8041,UA8041,UAL8041,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '50', 'flight_iata': 'ac50', 'flight_icao': 'aca50'}"
+8439,UA8439,UAL8439,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '8645', 'flight_iata': 'ac8645', 'flight_icao': 'aca8645'}"
+1936,UA1936,UAL1936,
+5403,UA5403,UAL5403,
+209,UA209,UAL209,
+1497,UA1497,UAL1497,
+8494,UA8494,UAL8494,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '878', 'flight_iata': 'ac878', 'flight_icao': 'aca878'}"
+8884,UA8884,UAL8884,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '2487', 'flight_iata': 'lh2487', 'flight_icao': 'dlh2487'}"
+5555,UA5555,UAL5555,
+1557,UA1557,UAL1557,
+1730,UA1730,UAL1730,
+8322,UA8322,UAL8322,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '792', 'flight_iata': 'ac792', 'flight_icao': 'aca792'}"
+3236,UA3236,UAL3236,
+8396,UA8396,UAL8396,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '742', 'flight_iata': 'ac742', 'flight_icao': 'aca742'}"
+2359,UA2359,UAL2359,
+2142,UA2142,UAL2142,
+1,UA1,UAL1,
+412,UA412,UAL412,
+917,UA917,UAL917,
+2247,UA2247,UAL2247,
+1603,UA1603,UAL1603,
+1769,UA1769,UAL1769,
+2416,UA2416,UAL2416,
+2615,UA2615,UAL2615,
+1485,UA1485,UAL1485,
+5638,UA5638,UAL5638,
+476,UA476,UAL476,
+877,UA877,UAL877,
+1145,UA1145,UAL1145,
+5670,UA5670,UAL5670,
+60,UA60,UAL60,
+8210,UA8210,UAL8210,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '8936', 'flight_iata': 'ac8936', 'flight_icao': 'aca8936'}"
+1578,UA1578,UAL1578,
+498,UA498,UAL498,
+863,UA863,UAL863,
+8160,UA8160,UAL8160,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '42', 'flight_iata': 'ac42', 'flight_icao': 'aca42'}"
+8212,UA8212,UAL8212,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '595', 'flight_iata': 'ac595', 'flight_icao': 'aca595'}"
+8657,UA8657,UAL8657,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '8882', 'flight_iata': 'ac8882', 'flight_icao': 'aca8882'}"
+8238,UA8238,UAL8238,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '8544', 'flight_iata': 'ac8544', 'flight_icao': 'aca8544'}"
+8385,UA8385,UAL8385,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '793', 'flight_iata': 'ac793', 'flight_icao': 'aca793'}"
+5446,UA5446,UAL5446,
+5294,UA5294,UAL5294,
+2423,UA2423,UAL2423,
+5654,UA5654,UAL5654,
+5711,UA5711,UAL5711,
+5904,UA5904,UAL5904,
+2110,UA2110,UAL2110,
+2366,UA2366,UAL2366,
+1757,UA1757,UAL1757,
+1871,UA1871,UAL1871,
+2313,UA2313,UAL2313,
+5612,UA5612,UAL5612,
+839,UA839,UAL839,
+1605,UA1605,UAL1605,
+4796,UA4796,UAL4796,
+5575,UA5575,UAL5575,
+1137,UA1137,UAL1137,
+2622,UA2622,UAL2622,
+5510,UA5510,UAL5510,
+1237,UA1237,UAL1237,
+2138,UA2138,UAL2138,
+252,UA252,UAL252,
+9721,UA9721,UAL9721,"{'airline_name': 'swiss', 'airline_iata': 'lx', 'airline_icao': 'swr', 'flight_number': '53', 'flight_iata': 'lx53', 'flight_icao': 'swr53'}"
+9151,UA9151,UAL9151,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '693', 'flight_iata': 'lh693', 'flight_icao': 'dlh693'}"
+7967,UA7967,UAL7967,"{'airline_name': 'ana', 'airline_iata': 'nh', 'airline_icao': 'ana', 'flight_number': '816', 'flight_iata': 'nh816', 'flight_icao': 'ana816'}"
+9025,UA9025,UAL9025,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '581', 'flight_iata': 'lh581', 'flight_icao': 'dlh581'}"
+6064,UA6064,UAL6064,
+3482,UA3482,UAL3482,
+1639,UA1639,UAL1639,
+8221,UA8221,UAL8221,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '8654', 'flight_iata': 'ac8654', 'flight_icao': 'aca8654'}"
+7404,UA7404,UAL7404,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '512', 'flight_iata': 'va512', 'flight_icao': 'voz512'}"
+7479,UA7479,UAL7479,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '511', 'flight_iata': 'va511', 'flight_icao': 'voz511'}"
+7432,UA7432,UAL7432,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '1419', 'flight_iata': 'va1419', 'flight_icao': 'voz1419'}"
+7492,UA7492,UAL7492,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '826', 'flight_iata': 'va826', 'flight_icao': 'voz826'}"
+7538,UA7538,UAL7538,"{'airline_name': 'air china ltd', 'airline_iata': 'ca', 'airline_icao': 'cca', 'flight_number': '1822', 'flight_iata': 'ca1822', 'flight_icao': 'cca1822'}"
+7466,UA7466,UAL7466,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '741', 'flight_iata': 'va741', 'flight_icao': 'voz741'}"
+9170,UA9170,UAL9170,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '73', 'flight_iata': 'lh73', 'flight_icao': 'dlh73'}"
+8013,UA8013,UAL8013,"{'airline_name': 'ana', 'airline_iata': 'nh', 'airline_icao': 'ana', 'flight_number': '992', 'flight_iata': 'nh992', 'flight_icao': 'ana992'}"
+9641,UA9641,UAL9641,"{'airline_name': 'eurowings', 'airline_iata': 'ew', 'airline_icao': 'ewg', 'flight_number': '4064', 'flight_iata': 'ew4064', 'flight_icao': 'ewg4064'}"
+9630,UA9630,UAL9630,"{'airline_name': 'eurowings', 'airline_iata': 'ew', 'airline_icao': 'ewg', 'flight_number': '7464', 'flight_iata': 'ew7464', 'flight_icao': 'ewg7464'}"
+9636,UA9636,UAL9636,"{'airline_name': 'eurowings', 'airline_iata': 'ew', 'airline_icao': 'ewg', 'flight_number': '7760', 'flight_iata': 'ew7760', 'flight_icao': 'ewg7760'}"
+9861,UA9861,UAL9861,"{'airline_name': 'austrian', 'airline_iata': 'os', 'airline_icao': 'aua', 'flight_number': '201', 'flight_iata': 'os201', 'flight_icao': 'aua201'}"
+6890,UA6890,UAL6890,"{'airline_name': 'tap air portugal', 'airline_iata': 'tp', 'airline_icao': 'tap', 'flight_number': '1939', 'flight_iata': 'tp1939', 'flight_icao': 'tap1939'}"
+6780,UA6780,UAL6780,"{'airline_name': 'air new zealand', 'airline_iata': 'nz', 'airline_icao': 'anz', 'flight_number': '124', 'flight_iata': 'nz124', 'flight_icao': 'anz124'}"
+9101,UA9101,UAL9101,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '2507', 'flight_iata': 'lh2507', 'flight_icao': 'dlh2507'}"
+9908,UA9908,UAL9908,"{'airline_name': 'brussels airlines', 'airline_iata': 'sn', 'airline_icao': 'bel', 'flight_number': '2184', 'flight_iata': 'sn2184', 'flight_icao': 'bel2184'}"
+9043,UA9043,UAL9043,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '949', 'flight_iata': 'lh949', 'flight_icao': 'dlh949'}"
+1562,UA1562,UAL1562,
+171,UA171,UAL171,
+873,UA873,UAL873,
+9439,UA9439,UAL9439,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '1831', 'flight_iata': 'lh1831', 'flight_icao': 'dlh1831'}"
+9736,UA9736,UAL9736,"{'airline_name': 'swiss', 'airline_iata': 'lx', 'airline_icao': 'swr', 'flight_number': '352', 'flight_iata': 'lx352', 'flight_icao': 'swr352'}"
+9920,UA9920,UAL9920,"{'airline_name': 'brussels airlines', 'airline_iata': 'sn', 'airline_icao': 'bel', 'flight_number': '2592', 'flight_iata': 'sn2592', 'flight_icao': 'bel2592'}"
+7524,UA7524,UAL7524,"{'airline_name': 'air china ltd', 'airline_iata': 'ca', 'airline_icao': 'cca', 'flight_number': '1344', 'flight_iata': 'ca1344', 'flight_icao': 'cca1344'}"
+9642,UA9642,UAL9642,"{'airline_name': 'eurowings', 'airline_iata': 'ew', 'airline_icao': 'ewg', 'flight_number': '2462', 'flight_iata': 'ew2462', 'flight_icao': 'ewg2462'}"
+1871,UA1871,UAL1871,
+9079,UA9079,UAL9079,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '333', 'flight_iata': 'lh333', 'flight_icao': 'dlh333'}"
+8957,UA8957,UAL8957,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '1781', 'flight_iata': 'lh1781', 'flight_icao': 'dlh1781'}"
+5940,UA5940,UAL5940,
+8852,UA8852,UAL8852,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '423', 'flight_iata': 'lh423', 'flight_icao': 'dlh423'}"
+2674,UA2674,UAL2674,
+6679,UA6679,UAL6679,"{'airline_name': 'sa avianca', 'airline_iata': 'av', 'airline_icao': 'ava', 'flight_number': '9327', 'flight_iata': 'av9327', 'flight_icao': 'ava9327'}"
+2057,UA2057,UAL2057,
+129,UA129,UAL129,
+8556,UA8556,UAL8556,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '8786', 'flight_iata': 'ac8786', 'flight_icao': 'aca8786'}"
+7810,UA7810,UAL7810,"{'airline_name': 'hawaiian airlines', 'airline_iata': 'ha', 'airline_icao': 'hal', 'flight_number': '383', 'flight_iata': 'ha383', 'flight_icao': 'hal383'}"
+7374,UA7374,UAL7374,"{'airline_name': 'azul', 'airline_iata': 'ad', 'airline_icao': 'azu', 'flight_number': '8704', 'flight_iata': 'ad8704', 'flight_icao': 'azu8704'}"
+694,UA694,UAL694,
+2328,UA2328,UAL2328,
+5559,UA5559,UAL5559,
+7993,UA7993,UAL7993,"{'airline_name': 'ana', 'airline_iata': 'nh', 'airline_icao': 'ana', 'flight_number': '115', 'flight_iata': 'nh115', 'flight_icao': 'ana115'}"
+275,UA275,UAL275,
+1431,UA1431,UAL1431,
+1968,UA1968,UAL1968,
+4320,UA4320,UAL4320,
+819,UA819,UAL819,
+1498,UA1498,UAL1498,
+2488,UA2488,UAL2488,
+6145,UA6145,UAL6145,
+101,UA101,UAL101,
+1244,UA1244,UAL1244,
+2170,UA2170,UAL2170,
+2241,UA2241,UAL2241,
+4863,UA4863,UAL4863,
+685,UA685,UAL685,
+847,UA847,UAL847,
+4835,UA4835,UAL4835,
+5092,UA5092,UAL5092,
+62,UA62,UAL62,
+1729,UA1729,UAL1729,
+3863,UA3863,UAL3863,
+362,UA362,UAL362,
+724,UA724,UAL724,
+344,UA344,UAL344,
+4628,UA4628,UAL4628,
+8328,UA8328,UAL8328,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '788', 'flight_iata': 'ac788', 'flight_icao': 'aca788'}"
+8247,UA8247,UAL8247,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '553', 'flight_iata': 'ac553', 'flight_icao': 'aca553'}"
+8718,UA8718,UAL8718,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '491', 'flight_iata': 'lh491', 'flight_icao': 'dlh491'}"
+7909,UA7909,UAL7909,"{'airline_name': 'ana', 'airline_iata': 'nh', 'airline_icao': 'ana', 'flight_number': '109', 'flight_iata': 'nh109', 'flight_icao': 'ana109'}"
+8564,UA8564,UAL8564,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '567', 'flight_iata': 'ac567', 'flight_icao': 'aca567'}"
+7885,UA7885,UAL7885,"{'airline_name': 'hawaiian airlines', 'airline_iata': 'ha', 'airline_icao': 'hal', 'flight_number': '520', 'flight_iata': 'ha520', 'flight_icao': 'hal520'}"
+8234,UA8234,UAL8234,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '8994', 'flight_iata': 'ac8994', 'flight_icao': 'aca8994'}"
+8488,UA8488,UAL8488,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '8768', 'flight_iata': 'ac8768', 'flight_icao': 'aca8768'}"
+1972,UA1972,UAL1972,
+8114,UA8114,UAL8114,
+5534,UA5534,UAL5534,
+7951,UA7951,UAL7951,"{'airline_name': 'ana', 'airline_iata': 'nh', 'airline_icao': 'ana', 'flight_number': '991', 'flight_iata': 'nh991', 'flight_icao': 'ana991'}"
+8880,UA8880,UAL8880,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '350', 'flight_iata': 'lh350', 'flight_icao': 'dlh350'}"
+155,UA155,UAL155,
+9468,UA9468,UAL9468,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '1375', 'flight_iata': 'lh1375', 'flight_icao': 'dlh1375'}"
+9535,UA9535,UAL9535,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '843', 'flight_iata': 'lh843', 'flight_icao': 'dlh843'}"
+9528,UA9528,UAL9528,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '291', 'flight_iata': 'lh291', 'flight_icao': 'dlh291'}"
+9753,UA9753,UAL9753,"{'airline_name': 'swiss', 'airline_iata': 'lx', 'airline_icao': 'swr', 'flight_number': '1080', 'flight_iata': 'lx1080', 'flight_icao': 'swr1080'}"
+7400,UA7400,UAL7400,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '487', 'flight_iata': 'va487', 'flight_icao': 'voz487'}"
+7405,UA7405,UAL7405,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '487', 'flight_iata': 'va487', 'flight_icao': 'voz487'}"
+6798,UA6798,UAL6798,"{'airline_name': 'air new zealand', 'airline_iata': 'nz', 'airline_icao': 'anz', 'flight_number': '5653', 'flight_iata': 'nz5653', 'flight_icao': 'anz5653'}"
+9910,UA9910,UAL9910,"{'airline_name': 'brussels airlines', 'airline_iata': 'sn', 'airline_icao': 'bel', 'flight_number': '2050', 'flight_iata': 'sn2050', 'flight_icao': 'bel2050'}"
+9708,UA9708,UAL9708,"{'airline_name': 'air dolomiti', 'airline_iata': 'en', 'airline_icao': 'dla', 'flight_number': '8823', 'flight_iata': 'en8823', 'flight_icao': 'dla8823'}"
+9703,UA9703,UAL9703,"{'airline_name': 'air dolomiti', 'airline_iata': 'en', 'airline_icao': 'dla', 'flight_number': '8207', 'flight_iata': 'en8207', 'flight_icao': 'dla8207'}"
+9988,UA9988,UAL9988,"{'airline_name': 'brussels airlines', 'airline_iata': 'sn', 'airline_icao': 'bel', 'flight_number': '3152', 'flight_iata': 'sn3152', 'flight_icao': 'bel3152'}"
+9700,UA9700,UAL9700,"{'airline_name': 'air dolomiti', 'airline_iata': 'en', 'airline_icao': 'dla', 'flight_number': '8199', 'flight_iata': 'en8199', 'flight_icao': 'dla8199'}"
+9942,UA9942,UAL9942,"{'airline_name': 'brussels airlines', 'airline_iata': 'sn', 'airline_icao': 'bel', 'flight_number': '3208', 'flight_iata': 'sn3208', 'flight_icao': 'bel3208'}"
+9015,UA9015,UAL9015,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '809', 'flight_iata': 'lh809', 'flight_icao': 'dlh809'}"
+7459,UA7459,UAL7459,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '418', 'flight_iata': 'va418', 'flight_icao': 'voz418'}"
+7480,UA7480,UAL7480,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '837', 'flight_iata': 'va837', 'flight_icao': 'voz837'}"
+7450,UA7450,UAL7450,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '512', 'flight_iata': 'va512', 'flight_icao': 'voz512'}"
+9790,UA9790,UAL9790,"{'airline_name': 'swiss', 'airline_iata': 'lx', 'airline_icao': 'swr', 'flight_number': '724', 'flight_iata': 'lx724', 'flight_icao': 'swr724'}"
+9792,UA9792,UAL9792,"{'airline_name': 'swiss', 'airline_iata': 'lx', 'airline_icao': 'swr', 'flight_number': '786', 'flight_iata': 'lx786', 'flight_icao': 'swr786'}"
+9745,UA9745,UAL9745,"{'airline_name': 'swiss', 'airline_iata': 'lx', 'airline_icao': 'swr', 'flight_number': '2805', 'flight_iata': 'lx2805', 'flight_icao': 'swr2805'}"
+155,UA155,UAL155,
+132,UA132,UAL132,
+7454,UA7454,UAL7454,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '1117', 'flight_iata': 'va1117', 'flight_icao': 'voz1117'}"
+7489,UA7489,UAL7489,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '323', 'flight_iata': 'va323', 'flight_icao': 'voz323'}"
+7589,UA7589,UAL7589,"{'airline_name': 'air china ltd', 'airline_iata': 'ca', 'airline_icao': 'cca', 'flight_number': '1576', 'flight_iata': 'ca1576', 'flight_icao': 'cca1576'}"
+1459,UA1459,UAL1459,
+8824,UA8824,UAL8824,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '1675', 'flight_iata': 'lh1675', 'flight_icao': 'dlh1675'}"
+4610,UA4610,UAL4610,
+6760,UA6760,UAL6760,"{'airline_name': 'air new zealand', 'airline_iata': 'nz', 'airline_icao': 'anz', 'flight_number': '542', 'flight_iata': 'nz542', 'flight_icao': 'anz542'}"
+6783,UA6783,UAL6783,"{'airline_name': 'air new zealand', 'airline_iata': 'nz', 'airline_icao': 'anz', 'flight_number': '125', 'flight_iata': 'nz125', 'flight_icao': 'anz125'}"
+7474,UA7474,UAL7474,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '739', 'flight_iata': 'va739', 'flight_icao': 'voz739'}"
+7469,UA7469,UAL7469,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '519', 'flight_iata': 'va519', 'flight_icao': 'voz519'}"
+7908,UA7908,UAL7908,"{'airline_name': 'ana', 'airline_iata': 'nh', 'airline_icao': 'ana', 'flight_number': '462', 'flight_iata': 'nh462', 'flight_icao': 'ana462'}"
+9836,UA9836,UAL9836,"{'airline_name': 'austrian', 'airline_iata': 'os', 'airline_icao': 'aua', 'flight_number': '800', 'flight_iata': 'os800', 'flight_icao': 'aua800'}"
+7952,UA7952,UAL7952,"{'airline_name': 'ana', 'airline_iata': 'nh', 'airline_icao': 'ana', 'flight_number': '872', 'flight_iata': 'nh872', 'flight_icao': 'ana872'}"
+7700,UA7700,UAL7700,"{'airline_name': 'singapore airlines', 'airline_iata': 'sq', 'airline_icao': 'sia', 'flight_number': '108', 'flight_iata': 'sq108', 'flight_icao': 'sia108'}"
+7476,UA7476,UAL7476,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '314', 'flight_iata': 'va314', 'flight_icao': 'voz314'}"
+7490,UA7490,UAL7490,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '816', 'flight_iata': 'va816', 'flight_icao': 'voz816'}"
+7435,UA7435,UAL7435,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '313', 'flight_iata': 'va313', 'flight_icao': 'voz313'}"
+9004,UA9004,UAL9004,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '1181', 'flight_iata': 'lh1181', 'flight_icao': 'dlh1181'}"
+7455,UA7455,UAL7455,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '371', 'flight_iata': 'va371', 'flight_icao': 'voz371'}"
+3525,UA3525,UAL3525,
+6052,UA6052,UAL6052,
+1746,UA1746,UAL1746,
+3421,UA3421,UAL3421,
+4940,UA4940,UAL4940,
+1054,UA1054,UAL1054,
+2667,UA2667,UAL2667,
+352,UA352,UAL352,
+861,UA861,UAL861,
+2706,UA2706,UAL2706,
+376,UA376,UAL376,
+6372,UA6372,UAL6372,
+2238,UA2238,UAL2238,
+6103,UA6103,UAL6103,
+6369,UA6369,UAL6369,
+6092,UA6092,UAL6092,
+320,UA320,UAL320,
+2308,UA2308,UAL2308,
+1213,UA1213,UAL1213,
+2266,UA2266,UAL2266,
+1061,UA1061,UAL1061,
+5023,UA5023,UAL5023,
+2482,UA2482,UAL2482,
+5657,UA5657,UAL5657,
+8793,UA8793,UAL8793,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '638', 'flight_iata': 'lh638', 'flight_icao': 'dlh638'}"
+436,UA436,UAL436,
+5259,UA5259,UAL5259,
+4256,UA4256,UAL4256,
+686,UA686,UAL686,
+5366,UA5366,UAL5366,
+1317,UA1317,UAL1317,
+760,UA760,UAL760,
+4672,UA4672,UAL4672,
+5152,UA5152,UAL5152,
+2179,UA2179,UAL2179,
+1821,UA1821,UAL1821,
+1669,UA1669,UAL1669,
+1115,UA1115,UAL1115,
+4244,UA4244,UAL4244,
+5261,UA5261,UAL5261,
+484,UA484,UAL484,
+5841,UA5841,UAL5841,
+5781,UA5781,UAL5781,
+5149,UA5149,UAL5149,
+4744,UA4744,UAL4744,
+1787,UA1787,UAL1787,
+5700,UA5700,UAL5700,
+758,UA758,UAL758,
+772,UA772,UAL772,
+5094,UA5094,UAL5094,
+5018,UA5018,UAL5018,
+5035,UA5035,UAL5035,
+5582,UA5582,UAL5582,
+3301,UA3301,UAL3301,
+8474,UA8474,UAL8474,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '504', 'flight_iata': 'ac504', 'flight_icao': 'aca504'}"
+6684,UA6684,UAL6684,"{'airline_name': 'sa avianca', 'airline_iata': 'av', 'airline_icao': 'ava', 'flight_number': '9467', 'flight_iata': 'av9467', 'flight_icao': 'ava9467'}"
+7850,UA7850,UAL7850,"{'airline_name': 'hawaiian airlines', 'airline_iata': 'ha', 'airline_icao': 'hal', 'flight_number': '396', 'flight_iata': 'ha396', 'flight_icao': 'hal396'}"
+8551,UA8551,UAL8551,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '8787', 'flight_iata': 'ac8787', 'flight_icao': 'aca8787'}"
+7083,UA7083,UAL7083,"{'airline_name': 'copa airlines', 'airline_iata': 'cm', 'airline_icao': 'cmp', 'flight_number': '235', 'flight_iata': 'cm235', 'flight_icao': 'cmp235'}"
+7993,UA7993,UAL7993,"{'airline_name': 'ana', 'airline_iata': 'nh', 'airline_icao': 'ana', 'flight_number': '115', 'flight_iata': 'nh115', 'flight_icao': 'ana115'}"
+8246,UA8246,UAL8246,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '8807', 'flight_iata': 'ac8807', 'flight_icao': 'aca8807'}"
+8506,UA8506,UAL8506,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '571', 'flight_iata': 'ac571', 'flight_icao': 'aca571'}"
+8192,UA8192,UAL8192,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '1049', 'flight_iata': 'ac1049', 'flight_icao': 'aca1049'}"
+5154,UA5154,UAL5154,
+4794,UA4794,UAL4794,
+7098,UA7098,UAL7098,"{'airline_name': 'copa airlines', 'airline_iata': 'cm', 'airline_icao': 'cmp', 'flight_number': '323', 'flight_iata': 'cm323', 'flight_icao': 'cmp323'}"
+8024,UA8024,UAL8024,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '8999', 'flight_iata': 'ac8999', 'flight_icao': 'aca8999'}"
+8439,UA8439,UAL8439,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '8645', 'flight_iata': 'ac8645', 'flight_icao': 'aca8645'}"
+7884,UA7884,UAL7884,"{'airline_name': 'hawaiian airlines', 'airline_iata': 'ha', 'airline_icao': 'hal', 'flight_number': '506', 'flight_iata': 'ha506', 'flight_icao': 'hal506'}"
+7374,UA7374,UAL7374,"{'airline_name': 'azul', 'airline_iata': 'ad', 'airline_icao': 'azu', 'flight_number': '8704', 'flight_iata': 'ad8704', 'flight_icao': 'azu8704'}"
+4628,UA4628,UAL4628,
+8316,UA8316,UAL8316,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '8748', 'flight_iata': 'ac8748', 'flight_icao': 'aca8748'}"
+7065,UA7065,UAL7065,"{'airline_name': 'copa airlines', 'airline_iata': 'cm', 'airline_icao': 'cmp', 'flight_number': '403', 'flight_iata': 'cm403', 'flight_icao': 'cmp403'}"
+7449,UA7449,UAL7449,"{'airline_name': 'virgin australia', 'airline_iata': 'va', 'airline_icao': 'voz', 'flight_number': '702', 'flight_iata': 'va702', 'flight_icao': 'voz702'}"
+4320,UA4320,UAL4320,
+819,UA819,UAL819,
+1498,UA1498,UAL1498,
+8493,UA8493,UAL8493,"{'airline_name': 'air canada rouge', 'airline_iata': 'rv', 'airline_icao': 'rou', 'flight_number': '1515', 'flight_iata': 'rv1515', 'flight_icao': 'rou1515'}"
+870,UA870,UAL870,
+196,UA196,UAL196,
+4689,UA4689,UAL4689,
+9636,UA9636,UAL9636,"{'airline_name': 'eurowings', 'airline_iata': 'ew', 'airline_icao': 'ewg', 'flight_number': '7760', 'flight_iata': 'ew7760', 'flight_icao': 'ewg7760'}"
+136,UA136,UAL136,
+7612,UA7612,UAL7612,"{'airline_name': 'air china ltd', 'airline_iata': 'ca', 'airline_icao': 'cca', 'flight_number': '1546', 'flight_iata': 'ca1546', 'flight_icao': 'cca1546'}"
+8643,UA8643,UAL8643,"{'airline_name': 'air canada', 'airline_iata': 'ac', 'airline_icao': 'aca', 'flight_number': '269', 'flight_iata': 'ac269', 'flight_icao': 'aca269'}"
+9427,UA9427,UAL9427,"{'airline_name': 'lufthansa', 'airline_iata': 'lh', 'airline_icao': 'dlh', 'flight_number': '2171', 'flight_iata': 'lh2171', 'flight_icao': 'dlh2171'}"
+7534,UA7534,UAL7534,"{'airline_name': 'air china ltd', 'airline_iata': 'ca', 'airline_icao': 'cca', 'flight_number': '4503', 'flight_iata': 'ca4503', 'flight_icao': 'cca4503'}"
+453,TR453,TGW453,
+253,TR253,TGW253,
+3,TR3,TGW3,
+19,TR19,TGW19,
+686,TR686,TGW686,
+840,TR840,TGW840,
+632,TR632,TGW632,
 424,TR424,TGW424,
 390,TR390,TGW390,
+674,TR674,TGW674,
+899,TR899,TGW899,
+207,TR207,TGW207,
+275,TR275,TGW275,
+306,TR306,TGW306,
+397,TR397,TGW397,
+265,TR265,TGW265,
+233,TR233,TGW233,
+8,TR8,TGW8,
+504,TR504,TGW504,
+100,TR100,TGW100,
+892,TR892,TGW892,
+978,TR978,TGW978,
+979,TR979,TGW979,
+904,TR904,TGW904,
+659,TR659,TGW659,
+9,TR9,TGW9,
+361,TR361,TGW361,
+285,TR285,TGW285,
+491,TR491,TGW491,
+485,TR485,TGW485,
+161,TR161,TGW161,
+301,TR301,TGW301,
+604,TR604,TGW604,
+187,TR187,TGW187,
+596,TR596,TGW596,
+391,TR391,TGW391,
+675,TR675,TGW675,
+2,TR2,TGW2,
+18,TR18,TGW18,
+139,TR139,TGW139,
+206,TR206,TGW206,
+232,TR232,TGW232,
+264,TR264,TGW264,
+252,TR252,TGW252,
+426,TR426,TGW426,
+579,TR579,TGW579,
+138,TR138,TGW138,
+307,TR307,TGW307,
+186,TR186,TGW186,
+156,TR156,TGW156,
+360,TR360,TGW360,
+176,TR176,TGW176,
+897,TR897,TGW897,
+135,TR135,TGW135,
+116,TR116,TGW116,
+566,TR566,TGW566,
+428,TR428,TGW428,
+466,TR466,TGW466,
+469,TR469,TGW469,
+565,TR565,TGW565,
+483,TR483,TGW483,
+653,TR653,TGW653,
+280,TR280,TGW280,
+351,TR351,TGW351,
+540,TR540,TGW540,
+430,TR430,TGW430,
+134,TR134,TGW134,
+677,TR677,TGW677,
+530,TR530,TGW530,
+350,TR350,TGW350,
+425,TR425,TGW425,
+429,TR429,TGW429,
+17,TR17,TGW17,
+107,TR107,TGW107,
+564,TR564,TGW564,
+467,TR467,TGW467,
+431,TR431,TGW431,
+123,TR123,TGW123,
+303,TR303,TGW303,
+617,TR617,TGW617,
+386,TR386,TGW386,
+597,TR597,TGW597,
+125,TR125,TGW125,
+387,TR387,TGW387,
+905,TR905,TGW905,
+531,TR531,TGW531,
+841,TR841,TGW841,
+279,TR279,TGW279,
+541,TR541,TGW541,
+633,TR633,TGW633,
+274,TR274,TGW274,
+893,TR893,TGW893,
+605,TR605,TGW605,
+289,TR289,TGW289,
+899,TR899,TGW899,
+106,TR106,TGW106,
+808,TR808,TGW808,
+578,TR578,TGW578,
+486,TR486,TGW486,
+687,TR687,TGW687,
 112,TR112,TGW112,
+493,TR493,TGW493,
 222,TR222,TGW222,
 686,TR686,TGW686,
-285,TR285,TGW285,
 632,TR632,TGW632,
-493,TR493,TGW493,
-657,TR657,TGW657,
-899,TR899,TGW899,
-306,TR306,TGW306,
-284,TR284,TGW284,
-609,TR609,TGW609,
-904,TR904,TGW904,
-470,TR470,TGW470,
-720,TR720,TGW720,
-813,TR813,TGW813,
-187,TR187,TGW187,
-281,TR281,TGW281,
-217,TR217,TGW217,
-505,TR505,TGW505,
-207,TR207,TGW207,
-3,TR3,TGW3,
-607,TR607,TGW607,
-259,TR259,TGW259,
-676,TR676,TGW676,
-397,TR397,TGW397,
-386,TR386,TGW386,
-997,TR997,TGW997,
-175,TR175,TGW175,
-978,TR978,TGW978,
-677,TR677,TGW677,
-483,TR483,TGW483,
-896,TR896,TGW896,
-24,TR24,TGW24,
-979,TR979,TGW979,
+390,TR390,TGW390,
+424,TR424,TGW424,
+139,TR139,TGW139,
+157,TR157,TGW157,
+275,TR275,TGW275,
 385,TR385,TGW385,
+427,TR427,TGW427,
+101,TR101,TGW101,
+657,TR657,TGW657,
+117,TR117,TGW117,
+285,TR285,TGW285,
+607,TR607,TGW607,
+301,TR301,TGW301,
+216,TR216,TGW216,
+505,TR505,TGW505,
+813,TR813,TGW813,
+175,TR175,TGW175,
+896,TR896,TGW896,
+360,TR360,TGW360,
+604,TR604,TGW604,
+306,TR306,TGW306,
+492,TR492,TGW492,
+656,TR656,TGW656,
 277,TR277,TGW277,
-100,TR100,TGW100,
+289,TR289,TGW289,
+677,TR677,TGW677,
+818,TR818,TGW818,
+720,TR720,TGW720,
+217,TR217,TGW217,
+19,TR19,TGW19,
+979,TR979,TGW979,
+470,TR470,TGW470,
+207,TR207,TGW207,
+478,TR478,TGW478,
+564,TR564,TGW564,
+809,TR809,TGW809,
+659,TR659,TGW659,
+188,TR188,TGW188,
+468,TR468,TGW468,
+184,TR184,TGW184,
+259,TR259,TGW259,
+135,TR135,TGW135,
+2,TR2,TGW2,
+280,TR280,TGW280,
+384,TR384,TGW384,
+978,TR978,TGW978,
+452,TR452,TGW452,
+997,TR997,TGW997,
+896,TR896,TGW896,
+187,TR187,TGW187,
+186,TR186,TGW186,
+138,TR138,TGW138,
+116,TR116,TGW116,
 504,TR504,TGW504,
 812,TR812,TGW812,
-360,TR360,TGW360,
-659,TR659,TGW659,
-19,TR19,TGW19,
-453,TR453,TGW453,
-567,TR567,TGW567,
-265,TR265,TGW265,
-139,TR139,TGW139,
-656,TR656,TGW656,
-492,TR492,TGW492,
-471,TR471,TGW471,
-276,TR276,TGW276,
-216,TR216,TGW216,
-606,TR606,TGW606,
-565,TR565,TGW565,
+100,TR100,TGW100,
+183,TR183,TGW183,
 172,TR172,TGW172,
 720,TR720,TGW720,
 18,TR18,TGW18,
 396,TR396,TGW396,
-608,TR608,TGW608,
-174,TR174,TGW174,
-2,TR2,TGW2,
-116,TR116,TGW116,
-138,TR138,TGW138,
 898,TR898,TGW898,
 996,TR996,TGW996,
+904,TR904,TGW904,
+426,TR426,TGW426,
+300,TR300,TGW300,
+264,TR264,TGW264,
+258,TR258,TGW258,
 474,TR474,TGW474,
-134,TR134,TGW134,
-42,TR42,TGW42,
-579,TR579,TGW579,
-475,TR475,TGW475,
-157,TR157,TGW157,
-135,TR135,TGW135,
-183,TR183,TGW183,
-117,TR117,TGW117,
-384,TR384,TGW384,
-391,TR391,TGW391,
+898,TR898,TGW898,
+565,TR565,TGW565,
 156,TR156,TGW156,
+425,TR425,TGW425,
+487,TR487,TGW487,
+134,TR134,TGW134,
+579,TR579,TGW579,
+567,TR567,TGW567,
+107,TR107,TGW107,
+25,TR25,TGW25,
+278,TR278,TGW278,
+652,TR652,TGW652,
+266,TR266,TGW266,
+386,TR386,TGW386,
+429,TR429,TGW429,
+185,TR185,TGW185,
+307,TR307,TGW307,
+16,TR16,TGW16,
+288,TR288,TGW288,
+391,TR391,TGW391,
+400,TR400,TGW400,
+428,TR428,TGW428,
+466,TR466,TGW466,
+905,TR905,TGW905,
+113,TR113,TGW113,
+617,TR617,TGW617,
+284,TR284,TGW284,
+301,TR301,TGW301,
+677,TR677,TGW677,
+277,TR277,TGW277,
+182,TR182,TGW182,
+652,TR652,TGW652,
+278,TR278,TGW278,
+134,TR134,TGW134,
+8,TR8,TGW8,
+24,TR24,TGW24,
+300,TR300,TGW300,
+425,TR425,TGW425,
+453,TR453,TGW453,
+177,TR177,TGW177,
+905,TR905,TGW905,
+21,TR21,TGW21,
+979,TR979,TGW979,
+810,TR810,TGW810,
+659,TR659,TGW659,
+892,TR892,TGW892,
+180,TR180,TGW180,
+114,TR114,TGW114,
+898,TR898,TGW898,
+17,TR17,TGW17,
+139,TR139,TGW139,
+115,TR115,TGW115,
+381,TR381,TGW381,
+606,TR606,TGW606,
+135,TR135,TGW135,
+610,TR610,TGW610,
+9,TR9,TGW9,
+101,TR101,TGW101,
+978,TR978,TGW978,
+892,TR892,TGW892,
+100,TR100,TGW100,
+20,TR20,TGW20,
+276,TR276,TGW276,
+490,TR490,TGW490,
+897,TR897,TGW897,
+617,TR617,TGW617,
+457,TR457,TGW457,
+2,TR2,TGW2,
+138,TR138,TGW138,
+186,TR186,TGW186,
+18,TR18,TGW18,
+396,TR396,TGW396,
+898,TR898,TGW898,
 452,TR452,TGW452,
 658,TR658,TGW658,
-288,TR288,TGW288,
-486,TR486,TGW486,
-387,TR387,TGW387,
-566,TR566,TGW566,
-818,TR818,TGW818,
-478,TR478,TGW478,
+579,TR579,TGW579,
 302,TR302,TGW302,
-206,TR206,TGW206,
-465,TR465,TGW465,
-300,TR300,TGW300,
-426,TR426,TGW426,
-275,TR275,TGW275,
-419,TR419,TGW419,
-819,TR819,TGW819,
-253,TR253,TGW253,
-541,TR541,TGW541,
-16,TR16,TGW16,
-578,TR578,TGW578,
-633,TR633,TGW633,
+596,TR596,TGW596,
+565,TR565,TGW565,
+893,TR893,TGW893,
+483,TR483,TGW483,
+107,TR107,TGW107,
+608,TR608,TGW608,
+303,TR303,TGW303,
+386,TR386,TGW386,
+811,TR811,TGW811,
+427,TR427,TGW427,
+530,TR530,TGW530,
+305,TR305,TGW305,
+581,TR581,TGW581,
+818,TR818,TGW818,
 564,TR564,TGW564,
-491,TR491,TGW491,
+686,TR686,TGW686,
+632,TR632,TGW632,
+840,TR840,TGW840,
+809,TR809,TGW809,
+674,TR674,TGW674,
+432,TR432,TGW432,
+390,TR390,TGW390,
+187,TR187,TGW187,
+841,TR841,TGW841,
+429,TR429,TGW429,
+893,TR893,TGW893,
+189,TR189,TGW189,
+578,TR578,TGW578,
+487,TR487,TGW487,
+264,TR264,TGW264,
+188,TR188,TGW188,
+566,TR566,TGW566,
+106,TR106,TGW106,
+808,TR808,TGW808,
+307,TR307,TGW307,
+160,TR160,TGW160,
+16,TR16,TGW16,
+288,TR288,TGW288,
+387,TR387,TGW387,
+611,TR611,TGW611,
+123,TR123,TGW123,
+304,TR304,TGW304,
+25,TR25,TGW25,
+482,TR482,TGW482,
+280,TR280,TGW280,
+428,TR428,TGW428,
+531,TR531,TGW531,
+597,TR597,TGW597,
+633,TR633,TGW633,
+305,TR305,TGW305,
+899,TR899,TGW899,
+483,TR483,TGW483,
+492,TR492,TGW492,
+188,TR188,TGW188,
+610,TR610,TGW610,
+425,TR425,TGW425,
+896,TR896,TGW896,
+360,TR360,TGW360,
+453,TR453,TGW453,
+818,TR818,TGW818,
+658,TR658,TGW658,
+452,TR452,TGW452,
+277,TR277,TGW277,
+485,TR485,TGW485,
+608,TR608,TGW608,
+187,TR187,TGW187,
+904,TR904,TGW904,
+384,TR384,TGW384,
+118,TR118,TGW118,
+19,TR19,TGW19,
+397,TR397,TGW397,
+476,TR476,TGW476,
+604,TR604,TGW604,
+898,TR898,TGW898,
+116,TR116,TGW116,
+306,TR306,TGW306,
+207,TR207,TGW207,
+565,TR565,TGW565,
+117,TR117,TGW117,
+280,TR280,TGW280,
+482,TR482,TGW482,
+304,TR304,TGW304,
+206,TR206,TGW206,
+258,TR258,TGW258,
+264,TR264,TGW264,
+2,TR2,TGW2,
+426,TR426,TGW426,
+487,TR487,TGW487,
+992,TR992,TGW992,
+607,TR607,TGW607,
+978,TR978,TGW978,
+892,TR892,TGW892,
+100,TR100,TGW100,
+812,TR812,TGW812,
+504,TR504,TGW504,
+813,TR813,TGW813,
+135,TR135,TGW135,
+183,TR183,TGW183,
+138,TR138,TGW138,
+186,TR186,TGW186,
+899,TR899,TGW899,
+156,TR156,TGW156,
+161,TR161,TGW161,
+18,TR18,TGW18,
+396,TR396,TGW396,
+21,TR21,TGW21,
+898,TR898,TGW898,
+567,TR567,TGW567,
+107,TR107,TGW107,
+657,TR657,TGW657,
+386,TR386,TGW386,
+993,TR993,TGW993,
+16,TR16,TGW16,
+288,TR288,TGW288,
+428,TR428,TGW428,
+466,TR466,TGW466,
+430,TR430,TGW430,
+303,TR303,TGW303,
+493,TR493,TGW493,
+611,TR611,TGW611,
+265,TR265,TGW265,
+3,TR3,TGW3,
+361,TR361,TGW361,
+578,TR578,TGW578,
+385,TR385,TGW385,
+467,TR467,TGW467,
+391,TR391,TGW391,
+289,TR289,TGW289,
+401,TR401,TGW401,
+101,TR101,TGW101,
+465,TR465,TGW465,
+464,TR464,TGW464,
+175,TR175,TGW175,
+429,TR429,TGW429,
+471,TR471,TGW471,
+279,TR279,TGW279,
+531,TR531,TGW531,
+17,TR17,TGW17,
+653,TR653,TGW653,
+160,TR160,TGW160,
+530,TR530,TGW530,
+540,TR540,TGW540,
+897,TR897,TGW897,
+541,TR541,TGW541,
+564,TR564,TGW564,
+808,TR808,TGW808,
+106,TR106,TGW106,
+566,TR566,TGW566,
+281,TR281,TGW281,
 285,TR285,TGW285,
 115,TR115,TGW115,
-176,TR176,TGW176,
-19,TR19,TGW19,
-119,TR119,TGW119,
-840,TR840,TGW840,
+217,TR217,TGW217,
+490,TR490,TGW490,
+658,TR658,TGW658,
+452,TR452,TGW452,
+277,TR277,TGW277,
+253,TR253,TGW253,
+607,TR607,TGW607,
+505,TR505,TGW505,
+390,TR390,TGW390,
+674,TR674,TGW674,
+424,TR424,TGW424,
+112,TR112,TGW112,
 686,TR686,TGW686,
 632,TR632,TGW632,
 360,TR360,TGW360,
-350,TR350,TGW350,
-307,TR307,TGW307,
-139,TR139,TGW139,
-979,TR979,TGW979,
-390,TR390,TGW390,
-674,TR674,TGW674,
-305,TR305,TGW305,
-217,TR217,TGW217,
 904,TR904,TGW904,
-818,TR818,TGW818,
-425,TR425,TGW425,
-207,TR207,TGW207,
-607,TR607,TGW607,
-100,TR100,TGW100,
-677,TR677,TGW677,
-43,TR43,TGW43,
-658,TR658,TGW658,
 386,TR386,TGW386,
-604,TR604,TGW604,
+652,TR652,TGW652,
+278,TR278,TGW278,
+182,TR182,TGW182,
+478,TR478,TGW478,
+302,TR302,TGW302,
+610,TR610,TGW610,
+260,TR260,TGW260,
+397,TR397,TGW397,
+896,TR896,TGW896,
+905,TR905,TGW905,
+361,TR361,TGW361,
+567,TR567,TGW567,
+289,TR289,TGW289,
+479,TR479,TGW479,
+468,TR468,TGW468,
+897,TR897,TGW897,
 387,TR387,TGW387,
-306,TR306,TGW306,
-277,TR277,TGW277,
-216,TR216,TGW216,
-565,TR565,TGW565,
-135,TR135,TGW135,
-456,TR456,TGW456,
-2,TR2,TGW2,
-385,TR385,TGW385,
-609,TR609,TGW609,
-180,TR180,TGW180,
-892,TR892,TGW892,
-978,TR978,TGW978,
-381,TR381,TGW381,
-284,TR284,TGW284,
-122,TR122,TGW122,
-616,TR616,TGW616,
+107,TR107,TGW107,
+819,TR819,TGW819,
+274,TR274,TGW274,
 580,TR580,TGW580,
-608,TR608,TGW608,
-118,TR118,TGW118,
-384,TR384,TGW384,
-101,TR101,TGW101,
-427,TR427,TGW427,
-280,TR280,TGW280,
-482,TR482,TGW482,
-432,TR432,TGW432,
-304,TR304,TGW304,
-483,TR483,TGW483,
-24,TR24,TGW24,
-281,TR281,TGW281,
-301,TR301,TGW301,
+616,TR616,TGW616,
+135,TR135,TGW135,
+429,TR429,TGW429,
+25,TR25,TGW25,
+139,TR139,TGW139,
+565,TR565,TGW565,
+138,TR138,TGW138,
+2,TR2,TGW2,
 898,TR898,TGW898,
 396,TR396,TGW396,
 18,TR18,TGW18,
-605,TR605,TGW605,
-897,TR897,TGW897,
-3,TR3,TGW3,
-606,TR606,TGW606,
-20,TR20,TGW20,
-276,TR276,TGW276,
-596,TR596,TGW596,
-302,TR302,TGW302,
-610,TR610,TGW610,
-16,TR16,TGW16,
-288,TR288,TGW288,
-397,TR397,TGW397,
-617,TR617,TGW617,
-819,TR819,TGW819,
-486,TR486,TGW486,
-578,TR578,TGW578,
-808,TR808,TGW808,
-351,TR351,TGW351,
+173,TR173,TGW173,
+720,TR720,TGW720,
+172,TR172,TGW172,
+721,TR721,TGW721,
+156,TR156,TGW156,
+161,TR161,TGW161,
+428,TR428,TGW428,
 579,TR579,TGW579,
-567,TR567,TGW567,
-597,TR597,TGW597,
-9,TR9,TGW9,
-265,TR265,TGW265,
-426,TR426,TGW426,
-564,TR564,TGW564,
-541,TR541,TGW541,
-114,TR114,TGW114,
-633,TR633,TGW633,
-531,TR531,TGW531,
+818,TR818,TGW818,
 303,TR303,TGW303,
-188,TR188,TGW188,
+160,TR160,TGW160,
+279,TR279,TGW279,
+467,TR467,TGW467,
+653,TR653,TGW653,
+11,TR11,TGW11,
+487,TR487,TGW487,
+175,TR175,TGW175,
+122,TR122,TGW122,
+611,TR611,TGW611,
+431,TR431,TGW431,
+809,TR809,TGW809,
+721,TR721,TGW721,
+100,TR100,TGW100,
+504,TR504,TGW504,
+898,TR898,TGW898,
+578,TR578,TGW578,
+581,TR581,TGW581,
+380,TR380,TGW380,
+812,TR812,TGW812,
+189,TR189,TGW189,
+808,TR808,TGW808,
+566,TR566,TGW566,
+469,TR469,TGW469,
+675,TR675,TGW675,
+541,TR541,TGW541,
+531,TR531,TGW531,
+897,TR897,TGW897,
+261,TR261,TGW261,
+608,TR608,TGW608,
+482,TR482,TGW482,
+564,TR564,TGW564,
+597,TR597,TGW597,
 123,TR123,TGW123,
-841,TR841,TGW841,
+430,TR430,TGW430,
+113,TR113,TGW113,
+466,TR466,TGW466,
+617,TR617,TGW617,
 391,TR391,TGW391,
 181,TR181,TGW181,
-189,TR189,TGW189,
+276,TR276,TGW276,
+24,TR24,TGW24,
+899,TR899,TGW899,
+305,TR305,TGW305,
+157,TR157,TGW157,
+677,TR677,TGW677,
+840,TR840,TGW840,
+387,TR387,TGW387,
+119,TR119,TGW119,
+306,TR306,TGW306,
+487,TR487,TGW487,
+616,TR616,TGW616,
+904,TR904,TGW904,
+607,TR607,TGW607,
+234,TR234,TGW234,
+425,TR425,TGW425,
+491,TR491,TGW491,
+632,TR632,TGW632,
+277,TR277,TGW277,
+139,TR139,TGW139,
+265,TR265,TGW265,
+117,TR117,TGW117,
+477,TR477,TGW477,
+608,TR608,TGW608,
+892,TR892,TGW892,
+100,TR100,TGW100,
+253,TR253,TGW253,
+385,TR385,TGW385,
+177,TR177,TGW177,
+183,TR183,TGW183,
 452,TR452,TGW452,
+996,TR996,TGW996,
+898,TR898,TGW898,
+284,TR284,TGW284,
+20,TR20,TGW20,
+294,TR294,TGW294,
+606,TR606,TGW606,
+116,TR116,TGW116,
+138,TR138,TGW138,
+186,TR186,TGW186,
+381,TR381,TGW381,
+122,TR122,TGW122,
+156,TR156,TGW156,
+396,TR396,TGW396,
+898,TR898,TGW898,
+482,TR482,TGW482,
+660,TR660,TGW660,
+187,TR187,TGW187,
+386,TR386,TGW386,
+565,TR565,TGW565,
+483,TR483,TGW483,
+978,TR978,TGW978,
+674,TR674,TGW674,
+124,TR124,TGW124,
+686,TR686,TGW686,
+161,TR161,TGW161,
+390,TR390,TGW390,
+431,TR431,TGW431,
+567,TR567,TGW567,
+997,TR997,TGW997,
+180,TR180,TGW180,
+490,TR490,TGW490,
+397,TR397,TGW397,
+979,TR979,TGW979,
+9,TR9,TGW9,
+486,TR486,TGW486,
+819,TR819,TGW819,
+428,TR428,TGW428,
+466,TR466,TGW466,
+430,TR430,TGW430,
+426,TR426,TGW426,
+992,TR992,TGW992,
+469,TR469,TGW469,
+993,TR993,TGW993,
+530,TR530,TGW530,
+611,TR611,TGW611,
+905,TR905,TGW905,
+288,TR288,TGW288,
+540,TR540,TGW540,
+617,TR617,TGW617,
+134,TR134,TGW134,
+467,TR467,TGW467,
+188,TR188,TGW188,
+596,TR596,TGW596,
+25,TR25,TGW25,
+564,TR564,TGW564,
+808,TR808,TGW808,
+429,TR429,TGW429,
+809,TR809,TGW809,
+279,TR279,TGW279,
+605,TR605,TGW605,
+578,TR578,TGW578,
+303,TR303,TGW303,
+841,TR841,TGW841,
+17,TR17,TGW17,
+123,TR123,TGW123,
+653,TR653,TGW653,
+267,TR267,TGW267,
+235,TR235,TGW235,
+101,TR101,TGW101,
