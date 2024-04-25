@@ -20,12 +20,32 @@ To set up this project, you need to have Python installed on your machine (Pytho
    cd End-to-End-DE-project-in-Python
 
 # Usage
-To use the components of this repository, follow these instructions:
+To use the components of this repository, follow these instructions: 
+
 
 Open the notebook using Jupyter Lab or Jupyter Notebook:
    ```bash
    jupyter notebook avstack.ipynb
    ```
+Input your API key, in order to do that, you can add `environ['aviation_key'] = 'your-key'` right below the libraries import, like this:
+
+```python
+import requests
+from datetime import datetime, timedelta
+from os import environ
+import pandas as pd
+from sqlalchemy import create_engine
+import matplotlib.pyplot as plt
+import plotly.express as px
+from sqlalchemy.engine.url import URL
+from sqlalchemy_utils import database_exists, create_database, drop_database
+
+environ['aviation_key'] = 'your-key'
+api_key = environ.get('aviation_key')
+#[ ... rest of the code]
+```
+After doing that, your key will be saved in the environment and you won't need to leave it exposed in the code. 
+
 Run the cells sequentially to see how data is fetched, processed, and analyzed.
 
 To start the Shiny application, run:
