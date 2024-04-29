@@ -23,7 +23,7 @@ app_ui = ui.page_fluid(
             ui.input_text("airline_input", "Enter Airline Code"),
             ui.input_text("origin_input", "Enter Origin Airport Code"),
             ui.input_text("destination_input", "Enter Destination Airport Code"),
-            ui.input_action_button("go_button", "Go!"),
+            #ui.input_action_button("go_button", "Go!"),
             ui.download_button("download_button", "Download Filtered Data")
         ),
         
@@ -72,6 +72,10 @@ def server(input, output, session):
             return ui.HTML(fig.to_html(full_html=False, include_plotlyjs='cdn'))
         else:
             return "No data to display"
+    
+    @session.download(filename = 'flights.csv')
+    def download_button():
+        yield filtered_data().to_csv()
 
 
 # Create the app
